@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nidocument>
+<nicomment>
+
+</nicomment>
+<nierror code="8600">
+Photonfocus Toolkit Generic error.
+</nierror>
+<nierror code="8601">
+Photonfocus Toolkit PFLib error.
+</nierror>
+</nidocument>
