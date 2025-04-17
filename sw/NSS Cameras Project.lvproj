@@ -12,12 +12,16 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="defs" Type="Folder" URL="../defs">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="libs" Type="Folder">
 			<Item Name="Photonfocus_Toolkit.lvlib" Type="Library" URL="../libs/Photonfocus Toolkit/Photonfocus_Toolkit.lvlib"/>
 		</Item>
 		<Item Name="sub VIs" Type="Folder" URL="../sub VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>

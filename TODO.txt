@@ -1,4 +1,4 @@
-2 subVI ovládající kamery (RGB a Hyperspektrální).
+2 subVI ovládající kamery (RGB a Hyperspektrální). DONE
 HTTP komunikace backendem.
 Konfigurace manuálně, nebo z config souboru?
 Posílat errory na backend.
