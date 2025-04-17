@@ -1,0 +1,5 @@
+[My Computer]
+My Computer = "192.168.0.109"
+
+[NI-cRIO-9035-Sync-02346297]
+NI-cRIO-9035-Sync-02346297 = "172.22.11.2"
