@@ -21,6 +21,7 @@
 		<Item Name="sub VIs" Type="Folder" URL="../sub VIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Main Remote.vi" Type="VI" URL="../Main Remote.vi"/>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
